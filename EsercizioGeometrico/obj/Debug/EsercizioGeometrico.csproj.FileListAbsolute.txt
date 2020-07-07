@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\EsercizioGeometrico\EsercizioGeometrico\bin\Debug\EsercizioGeometrico.exe.config
+C:\Users\user\source\repos\EsercizioGeometrico\EsercizioGeometrico\bin\Debug\EsercizioGeometrico.exe
+C:\Users\user\source\repos\EsercizioGeometrico\EsercizioGeometrico\bin\Debug\EsercizioGeometrico.pdb
+C:\Users\user\source\repos\EsercizioGeometrico\EsercizioGeometrico\obj\Debug\EsercizioGeometrico.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EsercizioGeometrico\EsercizioGeometrico\obj\Debug\EsercizioGeometrico.exe
+C:\Users\user\source\repos\EsercizioGeometrico\EsercizioGeometrico\obj\Debug\EsercizioGeometrico.pdb
